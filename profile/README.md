@@ -44,6 +44,8 @@ On businessresponsibility.ch, interested parties can quickly and easily see whic
 
 Based on this data, businessresponsibility.ch enables the analysis of corporate reporting in Switzerland and thus allows civil society, authorities, legislators and last but not least the business community itself to gain a fact-based and always up-to-date insight into the development and progress of non-financial reporting in Switzerland.
 
+![businessresponsibility.ch](/bizres_screenshot.png)
+
 ## Team
 
 We are an interdisciplinary team of political scientists, economists, environmental activists and software developers that support the businessresponsibility.ch project. This is a non-profit startup project that aims to strengthen transparency and democratic oversight of the human rights performance of Swiss companies.
