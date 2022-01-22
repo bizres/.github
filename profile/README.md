@@ -23,6 +23,12 @@ By introducing a non-financial reporting obligation, Switzerland is following su
 
 *«Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»*
 
+<a href="https://bit.ly/3AmYM8Q" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Initiative_multinationales_responsables-Onex-04.jpg" height="250" /><br/>
+  <p>Wikipedia ©</p> 
+</a>
+
+
 * [Regulation](https://www.fedlex.admin.ch/eli/oc/2021/846/de)
 * [Official press release of admin.ch](https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-86226.html)
 * [Results of the consultation process](https://www.bj.admin.ch/dam/bj/de/data/wirtschaft/gesetzgebung/verantwortungsvolle-unternehmen/ve-ber-vsotr.pdf)
