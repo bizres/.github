@@ -46,7 +46,7 @@ Based on this data, [businessresponsibility.ch](https://en.businessresponsibilit
 
 ![businessresponsibility.ch](/bizres_screenshot.png)
 
-![Screen Shot 2022-02-11 at 17 01 12-fullpage](https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png)
+![Screen Shot 2022-02-11 at 17 01 12-fullpage](https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png | height=400)
 
 ## Architecture
 
