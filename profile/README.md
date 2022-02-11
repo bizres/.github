@@ -201,8 +201,8 @@ We welcome any feedback concerning our project! Please send us a message to our 
 
 * Project specific questions and feedback: David Weiss and Dina Pomeranz
 * Technology specific questions: 
-** System architecture / GitHub / Development: Cahit Atilgan
-** Machine Learning / Natural Language Processing: Nickolay Golomysov or Johannes Hool
+  - System architecture / GitHub / Development: Cahit Atilgan
+  - Machine Learning / Natural Language Processing: Nickolay Golomysov or Johannes Hool
 
 ## License
 This project is currently using the [3-Clause BSD license](https://opensource.org/licenses/BSD-3-Clause), which allows almost unlimited freedom with the software as long as the BSD copyright and license notice are included
