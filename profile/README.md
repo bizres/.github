@@ -1,6 +1,6 @@
 # Welcome to the "businessresponsibility.ch" project! 👋
 
-<table border="0">
+<table border="0" style="overflow:none; padding:2px;">
   <tr>
     <td>
     <a href="https://en.businessresponsibility.ch" target="_blank">
