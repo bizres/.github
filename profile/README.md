@@ -44,7 +44,9 @@ On [businessresponsibility.ch](https://en.businessresponsibility.ch/), intereste
 
 Based on this data, [businessresponsibility.ch](https://en.businessresponsibility.ch/) enables the analysis of corporate reporting in Switzerland and thus allows civil society, authorities, legislators and last but not least the business community itself to gain a fact-based and always up-to-date insight into the development and progress of non-financial reporting in Switzerland.
 
-<img src="https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png" height="640" style="display:block;margin:auto;"/>
+<div style="text-align:center">
+<img src="https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png" height="640" />
+</div>
 
 ## Architecture
 
