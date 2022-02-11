@@ -43,10 +43,9 @@ With [businessresponsibility.ch](https://en.businessresponsibility.ch/), we are 
 On [businessresponsibility.ch](https://en.businessresponsibility.ch/), interested parties can quickly and easily see which companies comply with the non-financial reporting obligation. The digital platform identifies, collects, analyzes and publishes non-financial reporting data from hundreds of Swiss companies and makes this information available free of charge.
 
 Based on this data, [businessresponsibility.ch](https://en.businessresponsibility.ch/) enables the analysis of corporate reporting in Switzerland and thus allows civil society, authorities, legislators and last but not least the business community itself to gain a fact-based and always up-to-date insight into the development and progress of non-financial reporting in Switzerland.
-
-![businessresponsibility.ch](/bizres_screenshot.png)
-
-![Screen Shot 2022-02-11 at 17 01 12-fullpage](https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png | height=400)
+<div style="height: 400px">
+  ![Screen Shot 2022-02-11 at 17 01 12-fullpage](https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png)
+</div>
 
 ## Architecture
 
