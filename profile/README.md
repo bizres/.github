@@ -46,6 +46,8 @@ Based on this data, [businessresponsibility.ch](https://en.businessresponsibilit
 
 ![businessresponsibility.ch](/bizres_screenshot.png)
 
+![Screen Shot 2022-02-11 at 17 01 12-fullpage](https://user-images.githubusercontent.com/5593131/153625662-bf233507-027a-4a49-af27-b34ec2894c77.png)
+
 ## Architecture
 
 The architectural layout of the businessresponsibility.ch platform can basically be represented in three clearly comprehensible and distinguishable software parts. These parts are internally connected either with system calls such as REST APIs, automated processes  or manual user interventions.
