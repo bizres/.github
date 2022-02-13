@@ -156,7 +156,7 @@ As prediction algorithms we tried [logistic regression](https://en.wikipedia.org
 
 #### Performance Metric
 
-When classifying texts there are two two errors which can happen. False Positives label a text as belonging to a category which it in truth does not. False Negatives do not label a text as belonging to a category even though in truth it should be. We tried two approaches where we first optimized our model for **accuracy**. This means that we try to minimize false positives and false negatives overall but do not care if there are more or less False Negatives than False Positives. Our second approach was optimizing the model for **recall** which means that we tried to minimize the False Negatives. In other words by optimizing for recall we tried to really find all texts belonging to a category even if we risk wrongfully labeling too many of the texts as belonging to this category.
+When classifying texts there are two errors which can happen. False Positives label a text as belonging to a category which it in truth does not. False Negatives do not label a text as belonging to a category even though in truth it should be. We tried two approaches where we first optimized our model for **accuracy**. This means that we try to minimize false positives and false negatives overall but do not care if there are more or less False Negatives than False Positives. Our second approach was optimizing the model for **recall** which means that we tried to minimize the False Negatives. In other words by optimizing for recall we tried to really find all texts belonging to a category even if we risk wrongfully labeling too many of the texts as belonging to this category.
 
 ## Technologies
 
