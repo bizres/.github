@@ -140,7 +140,8 @@ Classifying the reports is a non-trivial task. On one hand the sheer amount of t
 
 The following illustration shows the process of training our model. First, we select a number of Wikipedia articles which are interpreted as individual topics. We then generate Keywords based on the content of the articles using tf-idf metrics. Lastly, the algorithm searches for keywords in the sustainability reports.
 
-![Screenshot 2022-02-24 154202](https://user-images.githubusercontent.com/6972772/155545850-83d2f3a6-0cc8-49bf-bfae-92fd794c9fec.jpg)
+![Screenshot 2022-02-24 154202](https://user-images.githubusercontent.com/6972772/155548913-c045559e-8fa1-45bc-8832-e8012727f61a.jpg)
+
 
 #### Topic Detection
 
