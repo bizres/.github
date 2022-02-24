@@ -166,11 +166,11 @@ If you are interested in the implementation details, please visit our [sub repos
 
 #### Reoport classification
 One the topics are detected, we have to classify the reports as a whole. For our Prototype Fund project we used the following rules:
-- For each topic, we generate at most 10 key expressions which contain of two words (e.g.. "air pollution" or "lung cancer").
+- For each topic, we generate at most 10 key expressions which contain two words (e.g.. "air pollution" or "lung cancer").
 - If a section of a report contains at least one key expression of a topic it is considered to report about the topic
-- If a report contains at least 600 characters (i.e. "half a page") of text about subtopics of a category, the report is considered to report about the category
+- If a report contains at least 600 characters (i.e. "half a page") of sections about subtopics of a category, the report is considered to report about the category
 
-Those rules are designed such that our categorization have rather "broad catchment area". However, for further analysis and different projects the selection of topics and the classification of reports will very likely look different, depending on the kind of analysis and project.
+Those rules are designed such that our categorization have rather "broad catchment area". However, for further analysis and different projects the selection of topics and the classification rules of reports will very likely look different, depending on the kind of analysis and project.
 
 ## Technologies
 
