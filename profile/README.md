@@ -147,19 +147,19 @@ The following illustration shows the process of training our model. First, we se
 
 The algorithm is built to be adaptable, if in the future we want to use new topics or categories. At the moment we use the following articles to detect topics of five main categories:
 
-**Human Rights**
+*Human Rights:*
 Human rights, Right of return, Right of self-defense, Right to be heard, Right to clothing, Right to disconnect, Right to explanation, Right to family life, Right to personal identity, Right to sexuality, Right to truth, Right to social security, Right to food, Right to housing, Right to health, Right to education
 
-**Environment**
+*Environment:*
 Climate change, Environmental degradation, Environmental health, Environmental issues with energy, Environmental impact of transport, Environmental issues with war, Overpopulation, Mutation breeding, Genetically modified food, Air pollution, Light pollution, Noise pollution, Soil pollution, Water pollution, Resource depletion, Waste
 
 **Corruption**
 Corruption, Cronyism, Insider trading, Nepotism, Police corruption, Securities fraud, Bribery, Embezzlement, Money laundering, Political corruption, Tax evasion
 
-**Social Issues**
+*Social Issues:*
 Social stratification, Unemployment, Working poor, Ageism, Social inequality, Educational inequality, wage inequality, gender inequality, racial inequality, Health equity, discrimination, Environmental racism, Abortion debate, literacy, racism, Human trafficking
 
-**Employee Concerns**
+*Employee Concerns:*
 Labor rights, Equal pay for equal work, Overtime, Child labour, Occupational safety and health, Minimum wage, Gender pay gap
 
 If you are interested in the implementation details, please visit our [sub repository](https://github.com/bizres/report-topic-classification), specifically our example [Notebook](https://github.com/bizres/report-topic-classification/blob/master/usage_example.ipynb) to gain further insights.
