@@ -153,7 +153,7 @@ Human rights, Right of return, Right of self-defense, Right to be heard, Right t
 *Environment:*
 Climate change, Environmental degradation, Environmental health, Environmental issues with energy, Environmental impact of transport, Environmental issues with war, Overpopulation, Mutation breeding, Genetically modified food, Air pollution, Light pollution, Noise pollution, Soil pollution, Water pollution, Resource depletion, Waste
 
-**Corruption**
+*Corruption:*
 Corruption, Cronyism, Insider trading, Nepotism, Police corruption, Securities fraud, Bribery, Embezzlement, Money laundering, Political corruption, Tax evasion
 
 *Social Issues:*
