@@ -162,7 +162,7 @@ Social stratification, Unemployment, Working poor, Ageism, Social inequality, Ed
 *Employee Concerns:*
 Labor rights, Equal pay for equal work, Overtime, Child labour, Occupational safety and health, Minimum wage, Gender pay gap
 
-**If you are interested in the implementation details, please visit our [sub repository](https://github.com/bizres/report-topic-classification), specifically our example [Notebook](https://github.com/bizres/report-topic-classification/blob/master/usage_example.ipynb) to gain further insights.**
+**If you are interested in the implementation details, please visit our [sub repository](https://github.com/bizres/report-topic-classification](https://github.com/bizres/report-topic-classification-unsupervised)), specifically our example [Notebook](https://github.com/bizres/report-topic-classification-unsupervised/blob/master/usage_example.ipynb) to gain further insights.** For documentation reasons there also exists [this deprecated sub repository](https://github.com/bizres/report-topic-classification-supervised) which contains a supervised approach which was deemed not feasible as we lack resources for extended labeling.
 
 #### Reoport classification
 One the topics are detected, we have to classify the reports as a whole. For our Prototype Fund project we used the following rules:
